@@ -7,11 +7,3 @@ y=6
 print(y+' is ',type(y))
 
 
-
-#all:
-#slicing
-#len()
-
-#strings only:
-#strip,lower,upper,replace,split
-
