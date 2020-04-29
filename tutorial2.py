@@ -4,6 +4,6 @@
 y=6
 
 #print the variable and its datatype
-print(y+' is ',type(y))
+print('y is ',type(y))
 
 
